@@ -4,7 +4,9 @@
 
 ## Инструкция по запуску
 
-1. ````poetry shell```
-```poetry install```
-2.Установить переменную окружения ```VALUES_TElEGRAM_BOT_TOKEN``` в которой хранится токен бота.
+1. ```poetry shell ``` Создать виртуальное окружение </br>
+```poetry install``` Установить зависимости </br>
+
+2.Установить переменную окружения ```VALUES_TElEGRAM_BOT_TOKEN``` в которой хранится токен бота. </br>
+
 3.```poetry run python app.py```
